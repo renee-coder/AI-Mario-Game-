@@ -15,3 +15,15 @@
 #start, #status{
     font-size: 22px;
 }
+h4{
+    background-color: beige;
+    line-height: 2;
+    margin: 0px;
+}
+.model-dialog{
+    width: 90%;
+}
+.instruction_image{
+    width: 47%;
+    display: inline-block;
+}
